@@ -1,0 +1,3 @@
+[submodule "nodeJSActionWiki"]
+	path = nodeJSActionWiki
+	url = https://RHieger@github.com/RHieger/node-js-in-action.wiki.git
