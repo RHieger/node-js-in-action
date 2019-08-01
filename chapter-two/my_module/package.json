@@ -1,0 +1,11 @@
+{
+  "name": "my_module",
+  "version": "1.0.0",
+  "description": "Demo project to create a module, Chapter 2, first exercise.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robert Hieger",
+  "license": "ISC"
+}
