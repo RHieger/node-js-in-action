@@ -1,0 +1,11 @@
+{
+  "name": "latest-posts",
+  "version": "1.0.0",
+  "description": "Pulls the names of latest posts from JSON seed data and displays them in a templated web page.",
+  "main": "blog_recent.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robert Hieger",
+  "license": "ISC"
+}
