@@ -11,6 +11,6 @@ function roundTwo(amount)   {
 
 }   // end roundTwo(amount)
 
-exports.canadianToUS = canadian =>rountTwo(canadian * canadianDollar);
+exports.canadianToUS = canadian =>roundTwo(canadian * canadianDollar);
 
 exports.USToCanadian = us =>  roundTwo(us / canadianDollar);
